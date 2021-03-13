@@ -47,13 +47,13 @@ namespace OOP1
 
             productManager.ChangeName(product);
             //Console.WriteLine(product.Name); 
-            //Product.name = ?  
-            //Burada artık product.name "Masa" ya eşit çünkü Product bir referans tip.
+            //Product.name = ?  Masa
+            
 
             productManager.Decrease(sayi);
             //Console.WriteLine(sayi);
-            //sayi = ? 
-            //sayi hala 100'e eşit çünkü int değer tip.
+            //sayi = ? 100
+            
 
 
             ////////////////////////////////////////////////////////////////////////////
