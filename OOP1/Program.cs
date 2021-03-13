@@ -30,7 +30,7 @@ namespace OOP1
             /*
              * array,class,interface = referans tip
              * bunlar hem stack hem heap kullanır. int[] sayilar1 dediğimizde stackte yer açılır. new int[] { 10 , 20 , 30 }; dediğimizde ise 
-             * heap te adress tanımlanır.(mantık tam olarak bu olmayabilir araştır) (c deki pointer gibi aslında) 
+             * heap te adress tanımlanır.
              * sayilar1 = sayilar2; dediğimizde sayilar2 nin adresini alıyoruz ve artık sayilar1 in adresi sayilar2 nin adresi neyse o oluyor. Yani artık 
              * sayilar1 ve sayilar2 aynı adrese bağlı. O yüzden birinin değerini değiştirdiğimizde heapteki adresteki değeri değiştiriyoruz.
              * ikisi de aynı adrese bağlı olduğu için ikisininde değeri değişmiş oluyor.
